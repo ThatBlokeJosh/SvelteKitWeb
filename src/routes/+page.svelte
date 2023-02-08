@@ -30,7 +30,7 @@
 		background-color: var(--dark);
 		text-align: center;        
 		text-shadow: 1px 1px var(--shadow);
-		margin: -10px;
+		margin: 0;
 		height: max-content;
 
 		position: relative;
