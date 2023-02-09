@@ -60,7 +60,7 @@
         background-color: var(--light);
         color: var(--shade);
         border-color: var(--shade);
-        animation: spin 2s linear;
+        animation: spin 1s linear;
     }
 
 </style>
