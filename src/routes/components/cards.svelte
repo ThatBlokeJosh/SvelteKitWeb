@@ -61,6 +61,8 @@
          transform: scale(1.05);
          border-radius: auto;
          animation: none;
+         background-color: var(--shade);
+         overflow: hidden;
       }
       @media screen and (max-width: 1000px) {
          .cards {

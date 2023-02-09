@@ -1,1 +1,1 @@
-npm run dev -- --open
+npm run dev --reload --open

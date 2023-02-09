@@ -27,7 +27,7 @@
         border: var(--light) 5px solid;
         border-radius: 50%;
         transition: all 0.5s ease-in-out;
-        animation: spin 5s infinite;
+        
     }
 
     @keyframes spin {
@@ -60,6 +60,7 @@
         background-color: var(--light);
         color: var(--shade);
         border-color: var(--shade);
+        animation: spin 2s linear;
     }
 
 </style>

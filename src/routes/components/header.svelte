@@ -41,10 +41,7 @@
 		grid-template-rows: 1fr;
 		color: var(--light);
 		margin: 0 auto;
-		background-color: var(--shade);
 		box-sizing: border-box;
-		border: var(--light) 10px solid;
-		border-radius: 15px;
 	}
 
 </style>
